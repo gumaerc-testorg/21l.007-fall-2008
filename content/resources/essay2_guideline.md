@@ -2,8 +2,13 @@
 content_type: resource
 description: Guidelines and instructions for a writing assignment on a three passages
   from a single text.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-007-world-literatures-travel-writing-fall-2008/9b990f1e353f5ea4b68ced234636fbeb_essay2_guideline.pdf
+file: /media/courses/21l-007-world-literatures-travel-writing-fall-2008/9b990f1e353f5ea4b68ced234636fbeb_essay2_guideline.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Guidelines for Essay 2
 uid: 9b990f1e-353f-5ea4-b68c-ed234636fbeb
