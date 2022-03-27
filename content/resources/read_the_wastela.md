@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 669dc27e-1a98-591a-d550-47faea6ed2b7
 resourcetype: Document
 title: Reading The Wasteland
 uid: a37ec703-bf49-5a6c-f8d9-e0f37359ce10

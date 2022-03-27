@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d1505680-ea8f-62af-d6b1-2518830092ee
 resourcetype: Document
 title: 'Lifting Salad Plates: The Work of an ''Imagineer'''
 uid: 3c47da5c-b096-0058-5746-8da5ebd630a3

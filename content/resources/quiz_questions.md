@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quiz
 parent_type: CourseSection
+parent_uid: a4c4c5a4-f7e6-46c5-8700-85ac6d63a818
 resourcetype: Document
 title: 'Atanarjuat Quiz: Questions'
 uid: bca266f5-3ec2-4208-93f0-0700dc3e8643

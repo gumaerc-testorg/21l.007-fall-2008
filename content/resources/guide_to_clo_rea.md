@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d1505680-ea8f-62af-d6b1-2518830092ee
 resourcetype: Document
 title: Doing Close Reading
 uid: d14006fe-81f0-f0b8-7289-594f16972d2a

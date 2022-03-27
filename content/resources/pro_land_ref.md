@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 669dc27e-1a98-591a-d550-47faea6ed2b7
 resourcetype: Document
 title: Some References to the Promised Land in the Hebrew Bible
 uid: acb95058-cfcf-df98-4acb-2ebe4dc88b40

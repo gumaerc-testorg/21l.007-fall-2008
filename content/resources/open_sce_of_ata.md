@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 669dc27e-1a98-591a-d550-47faea6ed2b7
 resourcetype: Document
 title: Opening Scenes of Atanarjuat
 uid: ed7bfa39-98a9-f669-078e-7b65328349c8

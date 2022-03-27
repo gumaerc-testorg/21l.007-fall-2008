@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d1505680-ea8f-62af-d6b1-2518830092ee
 resourcetype: Document
 title: Revision/Comparison Essay
 uid: cebb2bfb-6bac-e44f-26f6-7cb9835e68c1

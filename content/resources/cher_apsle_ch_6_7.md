@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 669dc27e-1a98-591a-d550-47faea6ed2b7
 resourcetype: Document
 title: 'Worst Journey: Reading for 11/13'
 uid: da68b46e-8fe6-66f0-61cc-7382d305298c

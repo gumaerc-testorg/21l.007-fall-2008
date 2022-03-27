@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 669dc27e-1a98-591a-d550-47faea6ed2b7
 resourcetype: Document
 title: 'Class Discussion: "Blue Highways"'
 uid: e5aec226-697c-7590-3516-5d18cc3f97df

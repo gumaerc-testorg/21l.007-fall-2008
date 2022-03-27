@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d1505680-ea8f-62af-d6b1-2518830092ee
 resourcetype: Document
 title: Guidelines for Essay 1
 uid: a4a3c6f9-3aa5-6eef-4655-a6ba80975b14

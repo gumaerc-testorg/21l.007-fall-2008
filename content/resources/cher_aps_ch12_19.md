@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 669dc27e-1a98-591a-d550-47faea6ed2b7
 resourcetype: Document
 title: Cherry-Garrard, Chapters 12-17
 uid: cbd25762-e194-9e2a-02f5-e932385eec96

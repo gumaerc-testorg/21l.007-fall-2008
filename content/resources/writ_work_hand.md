@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d1505680-ea8f-62af-d6b1-2518830092ee
 resourcetype: Document
 title: Writing Workshop Handouts
 uid: 833f1e68-1baa-0dc6-cbb6-4cf0f360e9ff

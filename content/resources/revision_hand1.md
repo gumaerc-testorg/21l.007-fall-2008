@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d1505680-ea8f-62af-d6b1-2518830092ee
 resourcetype: Document
 title: Some Guidelines for Revising Your Essays
 uid: 22e1c5c1-0c7e-f04a-14b8-d9613d0b8ecf

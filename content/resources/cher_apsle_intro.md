@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 669dc27e-1a98-591a-d550-47faea6ed2b7
 resourcetype: Document
 title: 'Cherry Apsley-Garrard, "Introduction," The Worst Journey in the World: Selections'
 uid: 324a9bec-acfc-5511-6219-fb2c8e5f8997
