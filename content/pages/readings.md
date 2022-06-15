@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents a table of required reading assignments for each
+  class session, followed by a list of background readings and supporting materials.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -81,7 +83,7 @@ Heat-Moon, William Least. _Blue Highways: A Journey into America._ Boston, MA: B
 
 [Lewis and Clark Expedition Route in Google Earth](https://earth.google.com/web/data=CiQSIhIgMGZlYjg5N2RiMTEwMTFlNjlmZWYzOTljMWQzYTJlZWY)
 
-Class Discussion: "Blue Highways" ([PDF]({{< baseurl >}}/resources/thoughts))
+Class Discussion: "Blue Highways" ({{% resource_link e5aec226-697c-7590-3516-5d18cc3f97df "PDF" %}})
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ Stanley, chapter 12 (339-58), chapter 14 (430-77), chapter 15 (478-99).
 
 Phillips, Caryl. "Atlantic Crossing," and "Leaving Home." In _The Atlantic Sound_. New York, NY: Knopf, 2000, pp. 1-93. ISBN: 9780375401107.
 
-Reading notes on _The Atlantic Sound_ ([PDF]({{< baseurl >}}/resources/the_atlant_sound))
+Reading notes on _The Atlantic Sound_ ({{% resource_link 43b44852-b4c3-0ba4-2638-46b4389a510d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -261,7 +263,7 @@ Workshop: revising your essays
 
 Film: [Atanarjuat](http://www.isuma.tv/atanarjuat)
 
-Introduction to key events and characters in "Atanarjuat". ([PDF]({{< baseurl >}}/resources/open_sce_of_ata))
+Introduction to key events and characters in "Atanarjuat". ({{% resource_link ed7bfa39-98a9-f669-078e-7b65328349c8 "PDF" %}})
 
 Quiz
 
@@ -278,9 +280,9 @@ Quiz
 
 Cherry-Gerrard, Apsley. "Introduction." Chapters 6-7 in _The Worst Journey in the World_. New York, NY: Basic Books, 1997. ISBN: 9780786704378. \[[Download](http://www.gutenberg.org/etext/14363) a version of this work from Project Gutenberg.\]
 
-Reading notes for Introduction ([PDF]({{< baseurl >}}/resources/cher_apsle_intro))
+Reading notes for Introduction ({{% resource_link 324a9bec-acfc-5511-6219-fb2c8e5f8997 "PDF" %}})
 
-Reading notes for chapters 6-7 ([PDF]({{< baseurl >}}/resources/cher_apsle_ch_6_7))
+Reading notes for chapters 6-7 ({{% resource_link da68b46e-8fe6-66f0-61cc-7382d305298c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -291,7 +293,7 @@ Reading notes for chapters 6-7 ([PDF]({{< baseurl >}}/resources/cher_apsle_ch_6_
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Cherry-Garrard, chapters 12-17 ([PDF]({{< baseurl >}}/resources/cher_aps_ch12_19))
+Cherry-Garrard, chapters 12-17 ({{% resource_link cbd25762-e194-9e2a-02f5-e932385eec96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +302,7 @@ Cherry-Garrard, chapters 12-17 ([PDF]({{< baseurl >}}/resources/cher_aps_ch12_19
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Cherry-Garrard, chapters 12-17 (see handout under "Polar Regions" for selections and context) ([PDF]({{< baseurl >}}/resources/cher_aps_ch12_19))
+Cherry-Garrard, chapters 12-17 (see handout under "Polar Regions" for selections and context) ({{% resource_link cbd25762-e194-9e2a-02f5-e932385eec96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +328,7 @@ Eliot, Thomas Stearns. _The Wasteland_. New York, NY: W.W. Norton & Co., 2000. I
 \[[Download](http://www.gutenberg.org/etext/1321) a version of this work from Project Gutenberg.\]  
 \[[Download](http://www.gutenberg.org/etext/21602) an Audio version of this work from Project Gutenberg.\]
 
-Reading notes for _The Wasteland_ ([PDF]({{< baseurl >}}/resources/read_the_wastela))
+Reading notes for _The Wasteland_ ({{% resource_link a37ec703-bf49-5a6c-f8d9-e0f37359ce10 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -388,7 +390,7 @@ Policy questions about monuments
 
 ### Part III. Africa and The Atlantic World
 
-Passages from Genesis, Exodus, and Numbers ([PDF]({{< baseurl >}}/resources/pro_land_ref))
+Passages from Genesis, Exodus, and Numbers ({{% resource_link acb95058-cfcf-df98-4acb-2ebe4dc88b40 "PDF" %}})
 
 [HistoryWorld: History of Sub-Saharan Africa](http://www.historyworld.net/wrldhis/PlainTextHistories.asp?HistoryID=ab65&paragraphid=oqh#oqh)  
 (Background for the reading in Stanley, from a British site called "HistoryWorld"; on Livingstone specifically, Stanley's prefatory "Memoir" is probably more informative both about the facts and the "meaning" of Livingstone's career.)
