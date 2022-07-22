@@ -5,6 +5,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/3c7df9b6a759f1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: General Paper-Writing Guidelines
 uid: 3c7df9b6-a759-f188-ab40-dd33e2f8b52f
 ---
 Guidelines on writing papers.
-

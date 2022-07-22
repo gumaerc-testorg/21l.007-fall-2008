@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/a4a3c6f93aa56e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Guidelines for Essay 1
 uid: a4a3c6f9-3aa5-6eef-4655-a6ba80975b14
 ---
 Guidelines and instructions for an assignment to write an analytic essay on William Least Heat-Moon’s Blue Highways.
-

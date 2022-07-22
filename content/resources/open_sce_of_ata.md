@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/ed7bfa3998a9f6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Opening Scenes of Atanarjuat
 uid: ed7bfa39-98a9-f669-078e-7b65328349c8
 ---
 Class handout providing an introduction to the key events and characters in the film, "Atanarjuat."
-

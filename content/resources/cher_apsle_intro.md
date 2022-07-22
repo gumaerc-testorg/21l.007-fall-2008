@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/324a9becacfc55
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cherry Apsley-Garrard, "Introduction," The Worst Journey in the World: S
 uid: 324a9bec-acfc-5511-6219-fb2c8e5f8997
 ---
 Class handout containing reading notes for Cherry Apsley-Garrard's, "Introduction," The Worst Journey in the World: Selections.
-

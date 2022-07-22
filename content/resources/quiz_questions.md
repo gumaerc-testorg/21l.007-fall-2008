@@ -5,6 +5,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/bca266f53ec242
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quiz
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Atanarjuat Quiz: Questions'
 uid: bca266f5-3ec2-4208-93f0-0700dc3e8643
 ---
 Quiz on the film, "Atanarjuat."
-

@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/abb14b9dd0a5f8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Writing Introductions
 uid: abb14b9d-d0a5-f860-8fe1-18a1db4db375
 ---
 Guidelines for writing introductions for the writing assignments of the course.
-

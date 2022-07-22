@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/acb95058cfcfdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Some References to the Promised Land in the Hebrew Bible
 uid: acb95058-cfcf-df98-4acb-2ebe4dc88b40
 ---
 A selection of references to the promised land in the Hebrew Bible from http://www.biblegateway.com/.
-

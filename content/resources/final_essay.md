@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/c449fa460db299
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Essay
 uid: c449fa46-0db2-99f5-71bf-ed6af98f3150
 ---
 Guidelines, instructions, and suggested topics for the final essay assignment of the course.
-

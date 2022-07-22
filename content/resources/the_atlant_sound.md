@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/43b44852b4c30b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Atlantic Sound
 uid: 43b44852-b4c3-0ba4-2638-46b4389a510d
 ---
 Class handout containing reading notes on Caryl Phillips' The Atlantic Sound.
-

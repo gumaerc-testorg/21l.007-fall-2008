@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/3c47da5cb09600
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lifting Salad Plates: The Work of an ''Imagineer'''
 uid: 3c47da5c-b096-0058-5746-8da5ebd630a3
 ---
 Sample of close analysis provided as a supplement to the writing assignments of the course.
-

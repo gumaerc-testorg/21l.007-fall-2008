@@ -6,6 +6,7 @@ file: /courses/21l-007-world-literatures-travel-writing-fall-2008/d6faf208550581
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Reading The Wasteland
 uid: d6faf208-5505-814c-a977-cf4162ce65ac
 ---
 Class handout containing reading notes for Thomas Stearns Eliot's The Wasteland.
-
