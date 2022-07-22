@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course goals, course requirements, grading, a statement on plagiarism, and the
+  schedule of lecture topics and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 122ae65e-9a00-a619-77b2-22f1043987af
 ---
