@@ -39,8 +39,10 @@
     "website": "21l-007-world-literatures-travel-writing-fall-2008"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Exams with Solutions"
   ],
-  "site_uid": "8b1fca2d-4a20-4c85-9884-7ad76b44c02c",
+  "site_uid": "4d7f841f-9409-4f8b-b8cf-2650c8148f83",
+  "site_short_id": "21l.007-fall-2008",
   "title": "Course Metadata"
 }
