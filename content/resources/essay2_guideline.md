@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines and instructions for a writing assignment on a three passages
   from a single text.
-file: /courses/21l-007-world-literatures-travel-writing-fall-2008/9b990f1e353f5ea4b68ced234636fbeb_essay2_guideline.pdf
+file: /ol-ocw-studio-app/courses/21l-007-world-literatures-travel-writing-fall-2008/9b990f1e353f5ea4b68ced234636fbeb_essay2_guideline.pdf
 file_size: 67209
 file_type: application/pdf
 learning_resource_types:
