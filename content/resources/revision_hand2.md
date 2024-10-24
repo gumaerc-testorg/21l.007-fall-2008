@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines for writing introductions for the writing assignments of the
   course.
-file: /courses/21l-007-world-literatures-travel-writing-fall-2008/abb14b9dd0a5f8608fe118a1db4db375_revision_hand2.pdf
+file: /ol-ocw-studio-app/courses/21l-007-world-literatures-travel-writing-fall-2008/abb14b9dd0a5f8608fe118a1db4db375_revision_hand2.pdf
 file_size: 160883
 file_type: application/pdf
 learning_resource_types:

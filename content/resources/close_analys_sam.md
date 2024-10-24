@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample of close analysis provided as a supplement to the writing assignments
   of the course.
-file: /courses/21l-007-world-literatures-travel-writing-fall-2008/3c47da5cb096005857468da5ebd630a3_close_analys_sam.pdf
+file: /ol-ocw-studio-app/courses/21l-007-world-literatures-travel-writing-fall-2008/3c47da5cb096005857468da5ebd630a3_close_analys_sam.pdf
 file_size: 73603
 file_type: application/pdf
 learning_resource_types:
