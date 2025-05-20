@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines, instructions, and suggested topics for the final essay assignment
   of the course.
-file: /ol-ocw-studio-app/courses/21l-007-world-literatures-travel-writing-fall-2008/c449fa460db299f571bfed6af98f3150_final_essay.pdf
+file: /courses/21l-007-world-literatures-travel-writing-fall-2008/c449fa460db299f571bfed6af98f3150_final_essay.pdf
 file_size: 66381
 file_type: application/pdf
 learning_resource_types:

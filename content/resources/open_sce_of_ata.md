@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout providing an introduction to the key events and characters
   in the film, "Atanarjuat."
-file: /ol-ocw-studio-app/courses/21l-007-world-literatures-travel-writing-fall-2008/ed7bfa3998a9f669078e7b65328349c8_open_sce_of_ata.pdf
+file: /courses/21l-007-world-literatures-travel-writing-fall-2008/ed7bfa3998a9f669078e7b65328349c8_open_sce_of_ata.pdf
 file_size: 66895
 file_type: application/pdf
 learning_resource_types:
