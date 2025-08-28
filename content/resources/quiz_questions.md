@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on the film, "Atanarjuat."
-file: /courses/21l-007-world-literatures-travel-writing-fall-2008/bca266f53ec2420893f00700dc3e8643_quiz_questions.pdf
+file: /ol-ocw-studio-app/courses/21l-007-world-literatures-travel-writing-fall-2008/bca266f53ec2420893f00700dc3e8643_quiz_questions.pdf
 file_size: 58948
 file_type: application/pdf
 learning_resource_types:
