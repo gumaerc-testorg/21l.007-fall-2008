@@ -2,7 +2,7 @@
 content_type: resource
 description: Class handout containing reading notes for Thomas Stearns Eliot's The
   Wasteland.
-file: /courses/21l-007-world-literatures-travel-writing-fall-2008/8b2ef88a34d45de34ca17b6ab7748c50_thewasteland_3.pdf
+file: /ol-ocw-studio-app/courses/21l-007-world-literatures-travel-writing-fall-2008/8b2ef88a34d45de34ca17b6ab7748c50_thewasteland_3.pdf
 file_size: 72156
 file_type: application/pdf
 learning_resource_types:
