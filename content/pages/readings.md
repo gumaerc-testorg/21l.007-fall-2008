@@ -41,7 +41,7 @@ TOPICS
 
 Stern, J. "The Lonely Planet Guide to My Apartment." _The New Yorker_, April 24, 2006.
 
-Dunn, Oliver, and James E. Kelley. _The Diario of Christopher Columbus's First Voyage to America, 1492-1493_. Norman, OK: University of Oklahoma Press, 1991. ISBN: 9780806123844. \[{{% resource_link "9eec895f-7c12-4783-b315-d268b29715f4" "Preview" %}} in Google Books.\]
+Dunn, Oliver, and James E. Kelley. _The Diario of Christopher Columbus's First Voyage to America, 1492-1493_. Norman, OK: University of Oklahoma Press, 1991. ISBN: 9780806123844. \[[Preview](http://books.google.com/books?id=nS6kRnXJgCEC&pg=Pafrontcover) in Google Books.\]
 
 
 {{< tdclose >}}
@@ -56,11 +56,11 @@ Dunn, Oliver, and James E. Kelley. _The Diario of Christopher Columbus's First V
 
 ### Tourists, travellers, explorers
 
-Kincaid, Jamaica. _A Small Place_. New York, NY: Library of America, 2000. ISBN: 9780374527075. \[{{% resource_link "fc5e4171-8cd8-4a97-85f8-22bd5e1e8f7a" "Preview" %}} in Google Books.\]
+Kincaid, Jamaica. _A Small Place_. New York, NY: Library of America, 2000. ISBN: 9780374527075. \[[Preview](http://books.google.com/books?id=jGyCX-40ysYC&pg=Pafrontcover) in Google Books.\]
 
-Conrad, J. "Geography and Some Explorers." In _The Heart of Darkness_. New York, NY: Forgotten Books, 2008. ISBN: 9781606209790. \[{{% resource_link "866f3ebc-f259-4743-89a2-c0f05269044a" "Download" %}} a version of this work from Project Gutenberg.\]
+Conrad, J. "Geography and Some Explorers." In _The Heart of Darkness_. New York, NY: Forgotten Books, 2008. ISBN: 9781606209790. \[[Download](http://www.gutenberg.org/etext/526) a version of this work from Project Gutenberg.\]
 
-Levi- Strauss, C. _Tristes Tropiques_. Translated by John Weightman and Doreen Weightman. New York, NY: Penguin, 1992, chapters 1-4 (selections). ISBN: 9780140165623. \[{{% resource_link "f91f08bb-9e92-49c0-9f9f-f65b85f87672" "Download" %}} a different translation, by John Russell, from Internet Archive\]
+Levi- Strauss, C. _Tristes Tropiques_. Translated by John Weightman and Doreen Weightman. New York, NY: Penguin, 1992, chapters 1-4 (selections). ISBN: 9780140165623. \[[Download](http://www.archive.org/details/tristestropiques000177mbp) a different translation, by John Russell, from Internet Archive\]
 
 
 {{< tdclose >}}
@@ -81,7 +81,7 @@ Levi- Strauss, C. _Tristes Tropiques_. Translated by John Weightman and Doreen W
 
 Heat-Moon, William Least. _Blue Highways: A Journey into America._ Boston, MA: Back Bay Books, 1999, chapters 1, 2 (sections 1-6 and 15-18); Afterword. ISBN: 9780316353298.
 
-{{% resource_link "dc319e61-2004-4bff-bf13-446bb0555511" "Lewis and Clark Expedition Route in Google Earth" %}}
+[Lewis and Clark Expedition Route in Google Earth](https://earth.google.com/web/data=CiQSIhIgMGZlYjg5N2RiMTEwMTFlNjlmZWYzOTljMWQzYTJlZWY)
 
 Class Discussion: "Blue Highways" ({{% resource_link e5aec226-697c-7590-3516-5d18cc3f97df "PDF" %}})
 
@@ -116,7 +116,7 @@ Least Heat-Moon, chapter 8 (sections 6-12), chapter 9 (sections 5, 9-11), chapte
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Cabeza de Vaca, A. N. {{% resource_link "5688bde1-1f09-46ae-ba0b-a809418fa825" "_Naufragios_" %}}. 1542. \[_aka La Relación_\]  
+Cabeza de Vaca, A. N. [_Naufragios_](http://alkek.library.txstate.edu/swwc/cdv/book/1.html). 1542. \[_aka La Relación_\]  
 _Naufragios_ is another title frequently given to Cabeza de Vaca's _La Relación or Account_. Chapters 1-18 (pp. 3-63).
 {{< tdclose >}}
 
@@ -135,7 +135,7 @@ Cabeza de Vaca, chapters 19-37, pp. 64-127.
 8
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "276d8fcc-c29c-4325-b336-bdd484960a84" "The Journals of the Lewis and Clark Expedition" %}}. 1804.  
+[The Journals of the Lewis and Clark Expedition](http://lewisandclarkjournals.unl.edu/read/?_xmlsrc=lc.toc.xml&_xslsrc=LCstyles.xsl). 1804.  
 Jefferson's instructions (xxvii-xxxiii), July 27-August 26, 1804; September 23-October 4, 1804; October 8-21, 1804; October 26-November 4, 1804.
 {{< tdclose >}}
 
@@ -171,7 +171,7 @@ September 15-25, 1805; October 31-Nov. 7, 1805; April 18-23, 1806; September 6-2
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Equiano, Olaudah. _The Interesting Narrative of the Life of Olaudah Equiano or Gustavus Vassa, the African, Written by Himself_. Coffeetown Press, 2008. ISBN: 9781603810197. \[{{% resource_link "c5cf6baa-a478-4cf1-9455-d974a24c5ad3" "Download" %}} a version of this work from Project Gutenberg.\]
+Equiano, Olaudah. _The Interesting Narrative of the Life of Olaudah Equiano or Gustavus Vassa, the African, Written by Himself_. Coffeetown Press, 2008. ISBN: 9781603810197. \[[Download](http://www.gutenberg.org/etext/15399) a version of this work from Project Gutenberg.\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ Equiano (cont.)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Stanley, H. M. _How I Found Livingstone; Travels, Adventures, and Discoveres in Central Africa, Including an Account of Four Months' Residence with Dr. Livingstone_. Charleston, SC: BiblioBazaar, 2007, chapters 1-3. ISBN: 9781426411663. \[{{% resource_link "3b45de8f-238b-4285-8c90-310bb6d326dc" "Download" %}} a version of this work from Project Gutenberg.\]
+Stanley, H. M. _How I Found Livingstone; Travels, Adventures, and Discoveres in Central Africa, Including an Account of Four Months' Residence with Dr. Livingstone_. Charleston, SC: BiblioBazaar, 2007, chapters 1-3. ISBN: 9781426411663. \[[Download](http://www.gutenberg.org/etext/5157) a version of this work from Project Gutenberg.\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +235,7 @@ Reading notes on _The Atlantic Sound_ ({{% resource_link 43b44852-b4c3-0ba4-2638
 
 Phillips, "Homeward Bound," "Home," "Exodus." pp. 94-221.
 
-{{% resource_link "6a2d9242-5703-41b8-8baa-4673d515c9bb" "Necessary journeys" %}}
+[Necessary journeys](http://www.guardian.co.uk/books/2004/dec/11/society2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +261,7 @@ Workshop: revising your essays
 {{< tdopen >}}
 
 
-Film: {{% resource_link "a9e11c0a-7a7e-43ed-a135-5d02b19de363" "Atanarjuat" %}}
+Film: [Atanarjuat](http://www.isuma.tv/atanarjuat)
 
 Introduction to key events and characters in "Atanarjuat". ({{% resource_link ed7bfa39-98a9-f669-078e-7b65328349c8 "PDF" %}})
 
@@ -278,7 +278,7 @@ Quiz
 {{< tdopen >}}
 
 
-Cherry-Gerrard, Apsley. "Introduction." Chapters 6-7 in _The Worst Journey in the World_. New York, NY: Basic Books, 1997. ISBN: 9780786704378. \[{{% resource_link "897b31ed-9592-475c-ac4f-46b6414ac38d" "Download" %}} a version of this work from Project Gutenberg.\]
+Cherry-Gerrard, Apsley. "Introduction." Chapters 6-7 in _The Worst Journey in the World_. New York, NY: Basic Books, 1997. ISBN: 9780786704378. \[[Download](http://www.gutenberg.org/etext/14363) a version of this work from Project Gutenberg.\]
 
 Reading notes for Introduction ({{% resource_link 324a9bec-acfc-5511-6219-fb2c8e5f8997 "PDF" %}})
 
@@ -311,7 +311,7 @@ Cherry-Garrard, chapters 12-17 (see handout under "Polar Regions" for selections
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Worsley, Frank Arthur. _Endurance_. New York, NY: W.W. Norton & Co., 2000, pp. 1-34; read through the text under "The Expedition." ISBN: 9780393319941. \[{{% resource_link "66fc2bf9-5f4c-449e-9557-af783ee84f9a" "Preview" %}} a portion of this at Kodak.\]
+Worsley, Frank Arthur. _Endurance_. New York, NY: W.W. Norton & Co., 2000, pp. 1-34; read through the text under "The Expedition." ISBN: 9780393319941. \[[Preview](https://wwnorton.com/books/9780393319941) a portion of this at Kodak.\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,8 +325,8 @@ Worsley, Frank Arthur. _Endurance_. New York, NY: W.W. Norton & Co., 2000, pp. 1
 Worsley, _Endurance_, pp. 145-64.
 
 Eliot, Thomas Stearns. _The Wasteland_. New York, NY: W.W. Norton & Co., 2000. ISBN: 9780393974997.  
-\[{{% resource_link "38cf4f7a-e163-4e6a-a81e-c0dd7946236b" "Download" %}} a version of this work from Project Gutenberg.\]  
-\[{{% resource_link "aa195f21-485c-4338-8adb-a67288e15390" "Download" %}} an Audio version of this work from Project Gutenberg.\]
+\[[Download](http://www.gutenberg.org/etext/1321) a version of this work from Project Gutenberg.\]  
+\[[Download](http://www.gutenberg.org/etext/21602) an Audio version of this work from Project Gutenberg.\]
 
 Reading notes for _The Wasteland_ ({{% resource_link a37ec703-bf49-5a6c-f8d9-e0f37359ce10 "PDF" %}})
 
@@ -366,23 +366,23 @@ Erdrich, pp. 72-141.
 
 ### Part I. Introduction
 
-{{% resource_link "2b4aa05e-e279-4c32-91bb-299856dd64e9" "Jamaica Kincaid's Reading at MIT, April 2007" %}}  
+[Jamaica Kincaid's Reading at MIT, April 2007](http://techtv.mit.edu/videos/16228-a-reading-by-jamaica-kincaid)  
 (Video)
 
 (Claude Levi-Strauss and Unesco: An account of the anthropologist's contributions to this global organization: in particular, an evolving debate over the relations between inequality, race, development, and cultural diversity.)
 
 ### Part II. Crossing North America
 
-{{% resource_link "2587c1e5-3322-4372-a7c8-22feefbddb9d" "Legends of America" %}}  
+[Legends of America](https://photos.legendsofamerica.com/)  
 (Photographs)
 
-{{% resource_link "4b3aa4ba-41a2-4f52-986e-9d63699ed08c" "Civil rights marches of 1965" %}}  
+[Civil rights marches of 1965](http://www.nps.gov/history/nr/travel/civilrights/al4.htm)  
 (National Park Service Web site for the National Historic Trail commemorating the civil rights marches of 1965.)
 
-{{% resource_link "3ba4ab73-48b4-481c-a36b-fb2d9f44b86a" "National Park Service" %}}  
+[National Park Service](http://www.nps.gov/pipe/)  
 (National Park Service site: tall-grass prairie, sacred/protected pipestone quarries.)
 
-{{% resource_link "b5858f83-4eb3-4f19-862c-3cebea78d307" "Nintendo® and New World Travel Writing" %}}  
+[Nintendo® and New World Travel Writing](http://www.stanford.edu/class/history34q/readings/Cyberspace/FullerJenkins_Nintendo.html)  
 (Article by Henry Jenkins and Mary Fuller on the structural kinship between video games and travel narratives.)
 
 Policy questions about monuments  
@@ -392,27 +392,27 @@ Policy questions about monuments
 
 Passages from Genesis, Exodus, and Numbers ({{% resource_link acb95058-cfcf-df98-4acb-2ebe4dc88b40 "PDF" %}})
 
-{{% resource_link "57582622-6f0c-44be-8943-ee7c6279b0b5" "HistoryWorld: History of Sub-Saharan Africa" %}}  
+[HistoryWorld: History of Sub-Saharan Africa](http://www.historyworld.net/wrldhis/PlainTextHistories.asp?HistoryID=ab65&paragraphid=oqh#oqh)  
 (Background for the reading in Stanley, from a British site called "HistoryWorld"; on Livingstone specifically, Stanley's prefatory "Memoir" is probably more informative both about the facts and the "meaning" of Livingstone's career.)
 
 ### Part IV. Polar Regions
 
-{{% resource_link "21aa9aac-7073-47b3-9a0b-34b3bf49c491" "Atanarjuat action figures" %}}  
+[Atanarjuat action figures](https://nunatsiaq.com/stories/article/action_figures_next_step_for_atanarjuat/)  
 (From the archives of Nunatsiaq News.)
 
-{{% resource_link "7e2cf0d0-57c6-4da4-90e5-1e44f36f6013" "Isuma Independent Inuit films" %}}  
+[Isuma Independent Inuit films](http://www.isuma.tv/isuma)  
 (Web site for the production company behind "Atanarjuat.")
 
-{{% resource_link "1d797683-9d60-4360-9090-7182ce855fe4" "Facts about Nunavut" %}}  
+[Facts about Nunavut](http://www.isuma.tv/en/atanarjuat/facts-glance)  
 ("Atanarjuat" was produced in the Canadian territory of Nunavut by an Inuit film production company with Inuit actors and crew. This government website has basic facts on the territory, and dates for the land-claims suit that created it.)
 
-{{% resource_link "94f1a236-5caf-4321-8781-bf26a19a5910" "Polar Images" %}}  
+[Polar Images](http://www.spri.cam.ac.uk/library/pictures/gallery/)  
 (SPRI Picture Gallery, useful for images relating to Scott and Shackleton as well as for the Arctic.)
 
-{{% resource_link "47eb41af-22bd-4904-8097-3cc9a0201766" "Virtual Shackleton" %}}  
+[Virtual Shackleton](http://www.spri.cam.ac.uk/library/archives/shackleton/)  
 (The Scott Polar Research Institute's online archive.)
 
-{{% resource_link "1ab7d994-76ae-42c2-ac75-25fa15116766" "Endurance photographs and background" %}}  
+[Endurance photographs and background](https://www.pbs.org/wgbh/nova/shackleton/images.html)  
 (Kodak sponsored the exhibit on which this site is based; the text has interesting things to say about the visual record of this expedition in particular.)
 
 Koehn, Nancy. "Leadership in Crisis: Ernest Shackleton and the Epic Voyage of the Endurance." _Harvard Business School_ 9-803-127 (2003): 1-41.
